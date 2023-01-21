@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RustyKiwi.io/static/css/main.073c9b0a.css",
+    "main.js": "/RustyKiwi.io/static/js/main.5cc59991.js",
+    "static/js/787.f2ca695b.chunk.js": "/RustyKiwi.io/static/js/787.f2ca695b.chunk.js",
+    "static/media/logo.svg": "/RustyKiwi.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RustyKiwi.io/index.html",
+    "main.073c9b0a.css.map": "/RustyKiwi.io/static/css/main.073c9b0a.css.map",
+    "main.5cc59991.js.map": "/RustyKiwi.io/static/js/main.5cc59991.js.map",
+    "787.f2ca695b.chunk.js.map": "/RustyKiwi.io/static/js/787.f2ca695b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5cc59991.js"
+  ]
+}
